@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm Mohit Kumar👋
 # 💫 About Me:
 🚀 MERN Stack Developer | Building scalable web applications<br>💻 JavaScript • React • Node.js • Express • MongoDB<br>📚 Always learning, always building.<br>
 
