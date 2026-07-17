@@ -30,7 +30,7 @@ I am a passionate **Full Stack Developer** who loves building scalable, responsi
 ### Tools & Others
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,canva,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode" />
 </p>
 
 ---
